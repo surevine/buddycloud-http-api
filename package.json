@@ -1,6 +1,6 @@
 {
   "name": "buddycloud-http-api",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "author": "Denis Washington <denisw@online.de>",
   "description": "Access buddycloud via HTTP",
   "license": "Apache 2.0",
